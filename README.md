@@ -18,6 +18,6 @@ Since the app store is filled with mostly alert-based disaster management apps, 
 ### Authors
 - Sudarshan Sharma
 - Atul 
-*Senior Undergraduate,
-Department of Electronics and Electrical Communication Engineering,
-IIT Kharagpur, India.*
+  - *Senior Undergraduate,
+  Department of Electronics and Electrical Communication Engineering,
+  IIT Kharagpur, India.*
